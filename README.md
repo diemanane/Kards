@@ -1,16 +1,14 @@
-# kards
+# Kards
 
-A new Flutter project.
+Kards is a multi-platform card game developed in Flutter for Android, IOS and Web users.
 
-## Getting Started
+## About
 
-This project is a starting point for a Flutter application.
+This app is a multi-games app, which includes some typical spanish card games as: 
 
-A few resources to get you started if this is your first Flutter project:
+*Rentoy*
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+*Dash*
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+*5 vidas*
+
