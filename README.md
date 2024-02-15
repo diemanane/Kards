@@ -12,7 +12,7 @@ This app is a multi-games app, which includes some typical spanish card games as
 
 *5 vidas*
 
-<span>![</span><span>Logo de Kards</span><span>]</span><span>(</span><span>https://raw.githubusercontent.com/diemanane/Kards/master/assets/LogoKards.png</span><span>)</span>
+![](https://raw.githubusercontent.com/diemanane/Kards/master/assets/LogoKards.png)
 
 
 
